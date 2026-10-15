@@ -1,0 +1,32 @@
+{
+  "name": "Family Budget Manager",
+  "description": "A local-first family budget and expense manager with income/expense tracking, budgets, savings goals, monthly reports, and CSV export.",
+  "liveUrl": "",
+  "repoUrl": "https://github.com/ShamsUrRehman/family-budget-manager",
+  "portfolioUrl": "",
+  "techStack": [
+    "React",
+    "TypeScript",
+    "Vite",
+    "Tailwind CSS v4",
+    "IndexedDB",
+    "Dexie",
+    "PWA"
+  ],
+  "features": [
+    "Income and expense tracking",
+    "Monthly budget limits per category",
+    "Savings goals with progress tracking",
+    "Visual reports with income vs expense charts",
+    "CSV export",
+    "Local-first offline storage",
+    "Dark mode support"
+  ],
+  "demoPaths": [
+    "/",
+    "/transactions",
+    "/budgets",
+    "/savings",
+    "/reports"
+  ]
+}
